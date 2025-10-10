@@ -19,7 +19,7 @@
 🔭 I’m currently working on a React Native app to help remote teams collaborate more efficiently!  
 🌱 I’m currently learning Machine Learning with Python, Advanced React and Cloud DevOps.
 💬 Ask me about React, JavaScript, or building REST APIs!  
-📫 How to reach me: codingexpert483@gmail.com
+📫 How to reach me: codingexpert483@gmail.com .
 ⚡ Fun fact: When I'm not coding, you can find me hiking, chating.  
 
   
@@ -28,13 +28,13 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.instagram.com/isocyanideisgood" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/abhijeetbhale7" target="_blank">
+  <a href="https://www.linkedin.com/in" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="mailto:abhijeetbhale7@gmail.com">
+  <a href="mailto:">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
 </p>
