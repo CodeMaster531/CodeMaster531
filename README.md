@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm skiled and experienced web developer </h1>
-<h3 align="center">Aspiring Full Stack Developer | Mobile  | App </h3>
+<h3 align="center">Aspiring Full Stack Developer </h3>
 <h6 align="center">Hello, I am  william song, a  Full Stack Software Engineer based in US. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
 
 <p align="center" color='bule'>
