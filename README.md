@@ -88,8 +88,5 @@
   <img src="https://komarev.com/ghpvc/?username=abhijeetBhale&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetBhale" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@isocyanideisgood+%7C+@cam_worldd;abhijeetbhale7@gmail.com;Abhijeet+Bhale✌️👨‍💻" alt="Typing SVG" />
-</p>
 
 <!-- Made with ❤️ by Abhijeet Bhale -->
