@@ -48,28 +48,6 @@
 [![My Skills -ML & Data Tools](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetBhale&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetBhale&theme=gruvbox&layout=compact&hide_border=false" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhijeetBhale&theme=gruvbox&hide_border=false" />
-</p>
-
-
----
-
-### 📌 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abhijeetBhale&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ### 🧩 Contribution Graph
 
 <p align="center">
