@@ -24,19 +24,6 @@
   
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-  </a>
-  <a href="mailto:">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
-  </a>
-</p>
 
 ---
 
