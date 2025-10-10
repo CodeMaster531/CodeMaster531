@@ -84,9 +84,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijeetBhale&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetBhale" />
-</p>
-
-
 <!-- Made with ❤️ by Abhijeet Bhale -->
