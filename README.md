@@ -16,11 +16,10 @@
 
 ### 👨‍💻 About Me
 
--🔭 I’m currently working on a React Native app to help remote teams collaborate more efficiently!  **
--🌱 I’m currently learning Machine Learning with Python, Advanced React and Cloud DevOps. **
--💬 Ask me about React, JavaScript, or building REST APIs!  **
--📫 How to reach me: codingexpert483@gmail.com . **
--⚡ Fun fact: When I'm not coding, you can find me hiking, chating.  **
+- 🔨 I’m currently working on a **GitHub Readme Generator Website**
+- 🌱 Currently exploring **React**, **MongoDB (Atlas)**, **Docker**, and **AWS Cloud Services**
+- 📫 Reach me at: **[Portfolio Website](https://abhijeetbhale.github.io/Portfolio/)**
+- 🎯 Fun fact: *Doing coding just for funnnn :)))*
 
   
 ---
