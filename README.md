@@ -7,9 +7,9 @@
 <p align="center" color='bule'>
   React | Vue | + | Node | & | Laravel | PHP |
 </p>
-<div align='center'>
-  <img src='https://user-images.githubusercontent.com/6520701/239781678-2041a7ef-c779-4f95-b21c-eef5234d6681.gif'>
-</div>
+
+  <img align="center" src='https://user-images.githubusercontent.com/6520701/239781678-2041a7ef-c779-4f95-b21c-eef5234d6681.gif'>
+
 <div align="center">
   <a href="https://github.com/CodeMaster531/my-portfolio/blob/main/assets/my_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
