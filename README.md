@@ -7,7 +7,7 @@
 <p align="center" color='bule'>
   React | Vue | + | Node | & | Laravel | PHP |
 </p>
-<div>
+<div align='center'>
   <img src='https://user-images.githubusercontent.com/6520701/239781678-2041a7ef-c779-4f95-b21c-eef5234d6681.gif'>
 </div>
 <div align="center">
