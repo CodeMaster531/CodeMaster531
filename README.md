@@ -5,7 +5,7 @@
   <a href='https://codemaster531.surge.sh/' text-decoraton="none" color="white"  target="_blank" ><p color="white" font-family="impact"> My Portfolio </p>  </a>
 </div>
 <p align="center" color='bule'>
-  React | Vue | + | Node | & | Laravel | PHP |
+ Powerful AI | & | React | Vue | + | Next | TypeScript | Angluar | & | Node || Laravel | PHP | Python | Java | & | WordPress |
 </p>
 <div align="center">
   <img align="center" src='https://user-images.githubusercontent.com/6520701/239781678-2041a7ef-c779-4f95-b21c-eef5234d6681.gif'>
