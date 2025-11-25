@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on a React Native app to help remote teams collaborate more efficiently!  
 - 🌱 I’m currently learning AWS and exploring serverless architectures.
 - 💬 Ask me about React, JavaScript, or building REST APIs!
-- 📫 How to reach me: codingexpert483@example.com
+- 📫 How to reach me: mmarkovicfl@gmail.com
 - ⚡ Fun fact: When I'm not coding, you can find me hiking, photography, or tinkering with Raspberry Pi projects.  
   
 ---
