@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm skiled and experienced web developer </h1>
 <h3 align="center">Aspiring Full Stack Developer </h3>
 <h6 align="center">Hello, I am  a  Senior Full Stack Software Engineer with over 10 yeaars of experience desigining, developing, delivering high performance web application and enterprise level platforms and I am based in US. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about solving complex technical problems, crafting efficient and scalable solutions , delivering projection that exceeds client expectation and collaborative environments. My ability to translate business requirement into clean and maintainable code and my commitment to technical excellence make me reliable and technical leader and colloaborator in any projects. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
-<div align="center" >
+<!--<div align="center" >
   <a href='https://codemaster531.surge.sh/' text-decoraton="none" color="white"  target="_blank" ><p color="white" font-family="impact"> My Portfolio </p>  </a>
-</div>
+</div>-->
 <p align="center" color='bule'>
  Powerful AI | & | React | Vue | + | Next | TypeScript | Angluar | & | Node || Laravel | PHP | Python | Java | & | WordPress |
 </p>
