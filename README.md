@@ -39,10 +39,10 @@
 [![My Skills - Languages](https://skillicons.dev/icons?i=js,cs,c,cpp,php,python,java)](https://skillicons.dev)
 
 #### 🧑‍🎨 Frontend
-[![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,figma,idea)](https://skillicons.dev)
+[![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,vue,angular,typescript,nextjs,tailwind,bootstrap,vite,figma,idea)](https://skillicons.dev)
 
 #### 🧠 Backend 
-[![My Skills - Backend](https://skillicons.dev/icons?i=nodejs,express,postman,npm,express,fastapi,flask,flutter,laravel)](https://skillicons.dev)
+[![My Skills - Backend](https://skillicons.dev/icons?i=nodejs,express,postman,npm,express,fastapi,flask,flutter,laravel,powershell)](https://skillicons.dev)
 
 #### 📦 Database
 [![My Skills - Database](https://skillicons.dev/icons?i=mongodb,sqlite,mysql,postgres)](https://skillicons.dev)
