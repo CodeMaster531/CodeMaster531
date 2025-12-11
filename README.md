@@ -45,10 +45,10 @@
 [![My Skills - Backend](https://skillicons.dev/icons?i=nodejs,express,postman,npm,express,fastapi,flask,flutter,laravel)](https://skillicons.dev)
 
 #### 📦 Database
-[![My Skills - Database](https://skillicons.dev/icons?i=mongodb,sqlite,mysql)](https://skillicons.dev)
+[![My Skills - Database](https://skillicons.dev/icons?i=mongodb,sqlite,mysql,postgres)](https://skillicons.dev)
 
 #### 💻 Deploy
-[![My Skills - Deploy](https://skillicons.dev/icons?i=netlify,vercel)]
+[![My Skills - Deploy](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
 
 #### 🖼️ Creative Tools
 [![My Skills - C.Tools](https://skillicons.dev/icons?i=vscode,ps)](https://skillicons.dev)
