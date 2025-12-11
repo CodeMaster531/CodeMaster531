@@ -36,13 +36,13 @@
 ### 💻 Tech Stack
 
 #### 🚀 Languages
-[![My Skills - Languages](https://skillicons.dev/icons?i=js,cs,c,php,python,java)](https://skillicons.dev)
+[![My Skills - Languages](https://skillicons.dev/icons?i=js,cs,c,cpp,php,python,java)](https://skillicons.dev)
 
 #### 🧑‍🎨 Frontend
 [![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,figma)](https://skillicons.dev)
 
 #### 🧠 Backend 
-[![My Skills - Backend](https://skillicons.dev/icons?i=nodejs,express,postman,npm)](https://skillicons.dev)
+[![My Skills - Backend](https://skillicons.dev/icons?i=nodejs,php,python,django,express,postman,npm)](https://skillicons.dev)
 
 #### 📦 Database
 [![My Skills - Database](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
