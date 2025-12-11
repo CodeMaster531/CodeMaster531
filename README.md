@@ -48,7 +48,7 @@
 [![My Skills - Database](https://skillicons.dev/icons?i=mongodb,sqlite,mysql)](https://skillicons.dev)
 
 #### 💻 Deploy
-[![My Skills - Deploy](https://skillicons.dev/icons?i=netlify,vercel,)]
+[![My Skills - Deploy](https://skillicons.dev/icons?i=netlify,vercel)]
 
 #### 🖼️ Creative Tools
 [![My Skills - C.Tools](https://skillicons.dev/icons?i=vscode,ps)](https://skillicons.dev)
