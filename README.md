@@ -39,7 +39,7 @@
 [![My Skills - Languages](https://skillicons.dev/icons?i=js,cs,c,cpp,php,python,java)](https://skillicons.dev)
 
 #### 🧑‍🎨 Frontend
-[![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,vue,angular,typescript,nextjs,tailwind,bootstrap,vite,figma,idea)](https://skillicons.dev)
+[![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,vue,angular,typescript,nextjs,tailwind,bootstrap,vite,figma,idea,wordpress)](https://skillicons.dev)
 
 #### 🧠 Backend 
 [![My Skills - Backend](https://skillicons.dev/icons?i=nodejs,express,postman,npm,express,fastapi,flask,flutter,laravel,powershell)](https://skillicons.dev)
@@ -51,7 +51,7 @@
 [![My Skills - Deploy](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
 
 #### 🖼️ Creative Tools
-[![My Skills - C.Tools](https://skillicons.dev/icons?i=vscode,ps)](https://skillicons.dev)
+[![My Skills - C.Tools](https://skillicons.dev/icons?i=vscode,ps,visualstudio,cursor)](https://skillicons.dev)
 
 #### 📊 ML & Data Tools
 [![My Skills -ML & Data Tools](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
