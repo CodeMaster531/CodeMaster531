@@ -39,13 +39,16 @@
 [![My Skills - Languages](https://skillicons.dev/icons?i=js,cs,c,cpp,php,python,java)](https://skillicons.dev)
 
 #### 🧑‍🎨 Frontend
-[![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,figma)](https://skillicons.dev)
+[![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,figma,idea)](https://skillicons.dev)
 
 #### 🧠 Backend 
-[![My Skills - Backend](https://skillicons.dev/icons?i=nodejs,php,python,django,express,postman,npm)](https://skillicons.dev)
+[![My Skills - Backend](https://skillicons.dev/icons?i=nodejs,express,postman,npm,express,fastapi,flask,flutter,laravel)](https://skillicons.dev)
 
 #### 📦 Database
-[![My Skills - Database](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
+[![My Skills - Database](https://skillicons.dev/icons?i=mongodb,sqlite,mysql)](https://skillicons.dev)
+
+#### 📦 Deploy
+[![My Skills - Database](https://skillicons.dev/icons?i=netlify,vercel,l)]
 
 #### 🖼️ Creative Tools
 [![My Skills - C.Tools](https://skillicons.dev/icons?i=vscode,ps)](https://skillicons.dev)
