@@ -36,7 +36,7 @@
 ### 💻 Tech Stack
 
 #### 🚀 Languages
-[![My Skills - Languages](https://skillicons.dev/icons?i=js,cs,c)](https://skillicons.dev)
+[![My Skills - Languages](https://skillicons.dev/icons?i=js,cs,c,php,python,java)](https://skillicons.dev)
 
 #### 🧑‍🎨 Frontend
 [![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,figma)](https://skillicons.dev)
